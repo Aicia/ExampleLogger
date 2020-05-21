@@ -1,0 +1,16 @@
+C:\Users\alici\source\repos\loggertest\bin\Debug\netcoreapp3.1\loggertest.exe
+C:\Users\alici\source\repos\loggertest\obj\Debug\netcoreapp3.1\loggertest.csprojAssemblyReference.cache
+C:\Users\alici\source\repos\loggertest\obj\Debug\netcoreapp3.1\loggertest.AssemblyInfoInputs.cache
+C:\Users\alici\source\repos\loggertest\obj\Debug\netcoreapp3.1\loggertest.AssemblyInfo.cs
+C:\Users\alici\source\repos\loggertest\bin\Debug\netcoreapp3.1\MethodDecorator.dll
+C:\Users\alici\source\repos\loggertest\obj\Debug\netcoreapp3.1\loggertest.csproj.CopyComplete
+C:\Users\alici\source\repos\loggertest\bin\Debug\netcoreapp3.1\loggertest.deps.json
+C:\Users\alici\source\repos\loggertest\bin\Debug\netcoreapp3.1\loggertest.runtimeconfig.json
+C:\Users\alici\source\repos\loggertest\bin\Debug\netcoreapp3.1\loggertest.runtimeconfig.dev.json
+C:\Users\alici\source\repos\loggertest\bin\Debug\netcoreapp3.1\loggertest.dll
+C:\Users\alici\source\repos\loggertest\bin\Debug\netcoreapp3.1\loggertest.pdb
+C:\Users\alici\source\repos\loggertest\obj\Debug\netcoreapp3.1\loggertest.csproj.CoreCompileInputs.cache
+C:\Users\alici\source\repos\loggertest\obj\Debug\netcoreapp3.1\loggertest.csproj.Fody.CopyLocal.cache
+C:\Users\alici\source\repos\loggertest\obj\Debug\netcoreapp3.1\loggertest.dll
+C:\Users\alici\source\repos\loggertest\obj\Debug\netcoreapp3.1\loggertest.pdb
+C:\Users\alici\source\repos\loggertest\obj\Debug\netcoreapp3.1\loggertest.genruntimeconfig.cache
